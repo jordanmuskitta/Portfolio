@@ -12,7 +12,7 @@ This project allowed me to develop my skills as a python programmer through crea
 - Convert pdf to txt
 - Analyze text for sentiment
 
-Link to Twitter bot: (https://twitter.com/AsxAry)
+[Click Here To See Twitter Bot Posts](https://twitter.com/AsxAry)
 
 ### Project 2: Brixc Capstone Project
 
