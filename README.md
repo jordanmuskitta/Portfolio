@@ -1,7 +1,7 @@
 # Portfolio
 Jordan Muskitta's Body of Work
 
-# ASX Announcement Sentiment Analysis
+### Project 1: ASX Announcement Sentiment Analysis
 
 _Authors: Jordan Muskitta_
 
