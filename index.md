@@ -2,7 +2,7 @@
 
 
 
-[### Project 1: ASX Announcement Sentiment Analysis](https://jordanmuskitta.github.io/ASX_Scraper_/)
+### [Project 1: ASX Announcement Sentiment Analysis](https://jordanmuskitta.github.io/ASX_Scraper_/)
 
 _Authors: Jordan Muskitta_
 
