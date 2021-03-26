@@ -29,6 +29,18 @@ This project was my final capstone as a part of General Assembly's Data Analytic
 - Find customer churn rate
 - Find customer lifetime value 
 
+### Visualization Preview
+
+#### KMF: Survival Regression Lines for Older Subscriptions
+
+![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/kmf72.JPG)
+
+#### KMF: Survival Regression Lines for Newer Subscriptions
+
+![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/kmf151617.JPG)
+
+
+
 ### [Project 3: Tesla Stock Price Analysis]
 
 I created this project as a part of my data science studies at university. Like many group projects there were difficulties with participation and contribution, therefore after unsuccessfully trying to garner more of a participatory spirit amongst team members, I opted to do this project alone. I was able to achieve a high distinction in this project, which gave me the confidence in my decision to perform this project solo. 
