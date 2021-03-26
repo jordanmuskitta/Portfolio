@@ -33,15 +33,15 @@ This project was my final capstone as a part of General Assembly's Data Analytic
 
 #### KMF: Survival Regression Lines for Older Subscriptions
 
-![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/kmf72.JPG)
+![](/images/kmf72.JPG)
 
 #### KMF: Survival Regression Lines for Newer Subscriptions
 
-![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/kmf151617.JPG)
+![](/images/kmf151617.JPG)
 
 #### BGF: Recency and Frequency Alive or Dead Analysis
 
-![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/bgf1.JPG)
+![](/images/bgf1.JPG)
 
 
 
@@ -59,15 +59,15 @@ I created this project as a part of my data science studies at university. Like 
 ### Visualization Preview
 
 #### Linear Regression for TSLA and NASDAQ
-![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/linear_regression_tsla_nasdaq.png)
+![](/images/linear_regression_tsla_nasdaq.png)
 
 #### Decision Tree: Prediction for TSLA Close Price
 
-![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/tsla_price_decision.png)
+![](/images/tsla_price_decision.png)
 
 
 #### LSTM: Prediction for TSLA Close Price
-![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/lstm_prediction.png)
+![](/images/lstm_prediction.png)
 
 
 
