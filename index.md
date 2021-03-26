@@ -45,7 +45,15 @@ I created this project as a part of my data science studies at university. Like 
 #### Linear Regression for TSLA and NASDAQ
 ![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/linear_regression_tsla_nasdaq.png)
 
-#### LSTM Prediction for TSLA Close Price
+#### Decision Tree: Prediction for TSLA Close Price
+
+![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/tsla_price_decision.png)
+
+
+#### LSTM: Prediction for TSLA Close Price
 ![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/lstm_prediction.png)
+
+
+
 
 
