@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+### Project 1: ASX Announcement Sentiment Analysis
 
-You can use the [editor on GitHub](https://github.com/jordanmuskitta/Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Authors: Jordan Muskitta_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This project allowed me to develop my skills as a python programmer through creating an ASX Annoucement Scraper and Sentiment Analysis bot. I was able to work with new python libraries such as vader and Tika. This project helped ameliorate myself with NLP and machine learning principles.
+
+### Program Objectives: 
+
+- Decipher the structure and content of HTML
+- Use Beautiful Soup to parse HTML
+- Download pdfs locally
+- Convert pdf to txt
+- Analyze text for sentiment
 
 ### Markdown
 
