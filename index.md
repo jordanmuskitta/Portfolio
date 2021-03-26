@@ -4,7 +4,7 @@ _Authors: Jordan Muskitta_
 
 This project allowed me to develop my skills as a python programmer through creating an ASX Annoucement Scraper and Sentiment Analysis bot. I was able to work with new python libraries such as vader and Tika. This project helped ameliorate myself with NLP and machine learning principles.
 
-### Program Objectives: 
+### Project Objectives: 
 
 - Decipher the structure and content of HTML
 - Use Beautiful Soup to parse HTML
@@ -12,33 +12,21 @@ This project allowed me to develop my skills as a python programmer through crea
 - Convert pdf to txt
 - Analyze text for sentiment
 
-### Markdown
+### Project 2: Brixc Capstone Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project Objectives:
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Project 3: Facial Recognition
 
-1. Numbered
-2. List
+### Project Objectives:
 
-**Bold** and _Italic_ and `Code` text
+### Project 4: Tesla Stock Price Analysis
 
-[Link](url) and ![Image](src)
-```
+### Project Objectives:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jordanmuskitta/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
