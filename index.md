@@ -12,6 +12,8 @@ This project allowed me to develop my skills as a python programmer through crea
 - Convert pdf to txt
 - Analyze text for sentiment
 
+Link to Twitter bot: (https://twitter.com/AsxAry)
+
 ### Project 2: Brixc Capstone Project
 
 This project was my final capstone as a part of General Assembly's Data Analytics Immersive Course that was a part of an Australia Government initiative. In this Project I was required to analyse a real Australian start-ups data in order to find insights from their customer and revenue data. This was a great project to work on as it expanded my skill set and pushed my analytical thinking. I had to use many tools and languages in this project in order to wrangle, clean and present the data. This project showed me importance of time mangement and project planning, as well as how extensive and time consuming cleaning data can be. In this project I used a mix of Python, MySQL and Tableau.
