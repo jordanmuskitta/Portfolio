@@ -1,6 +1,8 @@
 ## Welcome to Jordan Muskitta's Data Science Portfolio
 
+Hello World! My name's Jordan Muskitta. 
 
+I am a data analyst with a background in financial services and foreign exchange. I love using and manipulating financial data in order to find powerful insights that can make a tangible effect on an organisation. I am currently studying data science part-time at The University of Sydney with goals to speciliase in machine learning and deep neural networks. I also have a passion for trading equities in my spare time and have been developing algorithmic trading strategies with the Interactive Brokers API. 
 
 ### [Project 1: ASX Announcement Sentiment Analysis](https://jordanmuskitta.github.io/ASX_Scraper_/)
 
