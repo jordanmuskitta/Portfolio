@@ -41,7 +41,7 @@ This project was my final capstone as a part of General Assembly's Data Analytic
 
 
 
-### [Project 3: Tesla Stock Price Analysis]
+### [Project 3: Tesla Stock Price Analysis](https://github.com/jordanmuskitta/Tesla-Analysis)
 
 I created this project as a part of my data science studies at university. Like many group projects there were difficulties with participation and contribution, therefore after unsuccessfully trying to garner more of a participatory spirit amongst team members, I opted to do this project alone. I was able to achieve a high distinction in this project, which gave me the confidence in my decision to perform this project solo. 
 
