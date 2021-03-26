@@ -5,7 +5,7 @@ Jordan Muskitta's Body of Work
 
 _Authors: Jordan Muskitta_
 
-This project allowed me to develop my skills as a python programmer through creating an ASX Annoucement Scraper and Sentiment Analysis Bot.
+This project allowed me to develop my skills as a python programmer through creating an ASX Annoucement Scraper and Sentiment Analysis bot. I was able to work with new python libraries such as vader and Tika. This project helped ameliorate myself with NLP and machine learning principles.
 
 ### Program Objectives: 
 
