@@ -39,6 +39,10 @@ This project was my final capstone as a part of General Assembly's Data Analytic
 
 ![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/kmf151617.JPG)
 
+#### BGF: Recency and Frequency Alive or Dead Analysis
+
+![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/bgf1.JPG)
+
 
 
 ### [Project 3: Tesla Stock Price Analysis](https://github.com/jordanmuskitta/Tesla-Analysis)
