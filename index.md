@@ -41,7 +41,7 @@ This project was my final capstone as a part of General Assembly's Data Analytic
 
 #### BGF: Recency and Frequency Alive or Dead Analysis
 
-![](/jordanmuskitta/Portfolio/blob/main/images/bgf1.JPG)
+![](Portfolio/blob/main/images/bgf1.JPG)
 
 
 
