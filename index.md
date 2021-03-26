@@ -40,10 +40,12 @@ I created this project as a part of my data science studies at university. Like 
 - Comment on the provenance and meta data
 - Use machine learning algorithms in order to predict Tesla's price (LSTM) 
 
-### Visualization Preview: 
+### Visualization Preview
 
+#### Linear Regression for TSLA and NASDAQ
 ![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/linear_regression_tsla_nasdaq.png)
 
-
+#### LSTM Prediction for TSLA Close Price
+![](https://github.com/jordanmuskitta/Portfolio/blob/main/images/lstm_prediction.png)
 
 
