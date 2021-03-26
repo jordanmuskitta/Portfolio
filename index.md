@@ -33,15 +33,15 @@ This project was my final capstone as a part of General Assembly's Data Analytic
 
 #### KMF: Survival Regression Lines for Older Subscriptions
 
-![](/images/kmf72.JPG)
+![](/main/images/kmf72.JPG)
 
 #### KMF: Survival Regression Lines for Newer Subscriptions
 
-![](/images/kmf151617.JPG)
+![](/main/images/kmf151617.JPG)
 
 #### BGF: Recency and Frequency Alive or Dead Analysis
 
-![](/images/bgf1.JPG)
+![](/main/images/bgf1.JPG)
 
 
 
@@ -59,15 +59,15 @@ I created this project as a part of my data science studies at university. Like 
 ### Visualization Preview
 
 #### Linear Regression for TSLA and NASDAQ
-![](/images/linear_regression_tsla_nasdaq.png)
+![](/main/images/linear_regression_tsla_nasdaq.png)
 
 #### Decision Tree: Prediction for TSLA Close Price
 
-![](/images/tsla_price_decision.png)
+![](/main/images/tsla_price_decision.png)
 
 
 #### LSTM: Prediction for TSLA Close Price
-![](/images/lstm_prediction.png)
+![](/main/images/lstm_prediction.png)
 
 
 
