@@ -6,8 +6,6 @@ I am a data analyst with a background in financial services and foreign exchange
 
 ### [Project 1: ASX Announcement Sentiment Analysis](https://jordanmuskitta.github.io/ASX_Scraper_/)
 
-_Authors: Jordan Muskitta_
-
 This project allowed me to develop my skills as a python programmer through creating an ASX Annoucement Scraper and Sentiment Analysis bot. I was able to work with new python libraries such as vader and Tika. This project helped ameliorate myself with NLP and machine learning principles.
 
 ### Project Objectives: 
@@ -20,7 +18,7 @@ This project allowed me to develop my skills as a python programmer through crea
 
 [Click Here To See Twitter Bot Posts](https://twitter.com/AsxAry)
 
-### Project 2: Brixc Capstone Project
+### [Project 2: Brixc Capstone Project](https://github.com/jordanmuskitta/Brixc-Capstone/blob/main/Capstone%20Project%20(FINAL)/Capstone%20Project%20(FINAL)/capstone_final2.ipynb)
 
 This project was my final capstone as a part of General Assembly's Data Analytics Immersive Course that was a part of an Australia Government initiative. In this Project I was required to analyse a real Australian start-ups data in order to find insights from their customer and revenue data. This was a great project to work on as it expanded my skill set and pushed my analytical thinking. I had to use many tools and languages in this project in order to wrangle, clean and present the data. This project showed me importance of time mangement and project planning, as well as how extensive and time consuming cleaning data can be. In this project I used a mix of Python, MySQL and Tableau.
 
@@ -33,7 +31,7 @@ This project was my final capstone as a part of General Assembly's Data Analytic
 
 ### Project 3: Facial Recognition
 
-I want to explore deep and machine learning. In order to learn the basic of Convolutional Neural Networks, I decided to experiment with OpenCV. OpenCV is an opensource computer vision library that is available for python. I want to incorporate this facial recognition program to an artwork that I am currently developing.
+I want to explore deep and machine learning. In order to learn the basic of Convolutional Neural Networks, I decided to experiment with OpenCV. OpenCV is an opensource computer vision library that is available for python. I want to incorporate this facial recognition program to an artwork that I am currently developing. This project was more of an exploration of the OpenCV library.
 
 ### Project Objectives:
 
@@ -42,7 +40,13 @@ I want to explore deep and machine learning. In order to learn the basic of Conv
 
 ### Project 4: Tesla Stock Price Analysis
 
+I created this project as a part of my data science studies at university. Like many group projects there were difficulties with participation and contribution, therefore after unsuccessfully trying to garner more of a participatory spirit amongst team members, I opted to do this project alone. I was able to achieve a high distinction in this project, which gave me the confidence in my decision to perform this project solo. 
+
+
 ### Project Objectives:
+- Find if there's any correlation between Tesla's share price, the NASDAQ price and the components used in Tesla's battery.
+- Use machine learning algorithms in order to predict Tesla's price (LSTM) 
+
 
 
 
